@@ -17,5 +17,5 @@ makedocs(; modules=[MatrixLM], sitename="MatrixLM.jl", pages=[
 deploydocs(;
     repo= "https://github.com/senresearch/MatrixLM.jl",
     devbranch= "main",
-    devurl = "stable"
+    devurl = "dev"
 )
